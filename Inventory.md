@@ -2,6 +2,6 @@ Inventory refers to the goods and materials a business holds for the ultimate go
 
 This is usha
 
-this not usha
+
 
 
